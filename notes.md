@@ -62,3 +62,13 @@ yarn add --dev eslint-config-prettier
   "extends": ["next", "prettier"]
 }
 ```
+
+### Storybook
+
+- Setar storybook com Next
+
+```bash
+npx storybook@next init
+```
+
+- Instalei também o plugin do storybook pro eslint
