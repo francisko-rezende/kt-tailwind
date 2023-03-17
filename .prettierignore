@@ -1,0 +1,18 @@
+
+build
+coverage
+
+# Ignore all files in the .next directory
+.next/**
+
+# Ignore all files in the public directory
+public/**
+
+# Ignore all files in the out directory
+out/**
+
+# Ignore all files in the node_modules directory
+node_modules/**
+
+# Ignore all files in the .git directory
+.git/**
