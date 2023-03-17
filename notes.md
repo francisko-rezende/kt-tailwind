@@ -44,6 +44,8 @@ node_modules/**
 .git/**
 ```
 
+- Instalar o [plugin do prettier pro VSCode](https://github.com/prettier/prettier-vscode)
+
 ### Prettier + ESlint no Next
 
 - Configurar prettier
